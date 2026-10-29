@@ -6,6 +6,9 @@
 
 <br>
 
+<a href="https://www.linkedin.com/in/emrullah-ta%C5%9Fc%C4%B1-46a4a72a3">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://emrullahtasci.github.io">
   <img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
