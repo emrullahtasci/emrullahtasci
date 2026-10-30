@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=%24+whoami;Emrullah+Ta%C5%9Fc%C4%B1;MIS+Student+%40+MAKU;42+Kocaeli+Cadet;DevOps+%26+SAP+ABAP" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=%24+whoami;Emrullah+Ta%C5%9Fc%C4%B1;MIS+Student+%40+MAKU;42+Kocaeli+Cadet;Software+%C2%B7+Robotics+%C2%B7+DevOps" />
 
 <br>
 
@@ -33,7 +33,7 @@ emrullah@42:~$ whoami
 👤 Name      : Emrullah Taşcı
 🎓 School    : Mehmet Akif Ersoy University && 42 Kocaeli
 📚 Major     : Management Information Systems
-🛠️ Focus     : DevOps & SAP ABAP
+🧭 Interests : Software development · Robotics (ROS 2) · DevOps
 💼 Interned  : SAP ABAP Developer (2024) · DevOps (2023)
 🐧 OS        : Linux
 🚀 Goal      : Build and ship reliable software
@@ -59,7 +59,8 @@ emrullah@42:~$ whoami
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+<img src="https://skillicons.dev/icons?i=docker,linux,python" />
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="48"/>
 </p>
 
 ---
